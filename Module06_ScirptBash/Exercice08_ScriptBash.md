@@ -29,19 +29,19 @@ et qui descend jusqu'à 1.
 
 
 
-6- Crer un jeu qui permet à l'utilisateur de deviner un chiffre généré par le 
+5- Crer un jeu qui permet à l'utilisateur de deviner un chiffre généré par le 
 script entre 1 et 50. À chaque fois que l'utilisateur entre un chiffre, le 
 script lui indique si le chiffre à trouver est supérieur ou inférieur à celui 
 qu'il a entré, etc.
 
 
 
-7- Réaliser un script bash qui permet de vérifier si l'utilisateur a bien 
+6- Réaliser un script bash qui permet de vérifier si l'utilisateur a bien 
 saisi des arguments, et si les fichiers placés en arguments existent bien.
 
 
 
-8- Réaliser un script faisant appel à une fonction qui prend comme paramètre 
+7- Réaliser un script faisant appel à une fonction qui prend comme paramètre 
 un login d'un user et vérifie si l'utilisateur existe déjà.
 
 
