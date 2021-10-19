@@ -32,7 +32,7 @@ Système d'exploitation : Ubuntu 20.04 serveur Lts
 
 - Choix de la langue : Fraçais  et Install Ubuntu.
 - Disposition du Clavier : French(Canada) Variante canadien multilingue            
-- Connexions réseau :  ixe, 10.100.2.[VotreÉcran]/24, passerelle : 10.100.2.1(voir les captures du cours théorique) 
+- Connexions réseau :  Fixe, réseau: 10.100.2.0/24, adresse ip: 10.100.2.[VotreÉcran], passerelle: 10.100.2.1, DNS :  199.202.105.108, 199.202.105.1 (voir les captures du cours théorique) 
 - Adresse du proxy : laissez vide.
 - Utilisez l'adresse de miroir proposée.    
 
